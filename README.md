@@ -1,6 +1,6 @@
 # tracings
 
-Endpoint registration utilities for health monitoring.
+Network monitoring and management program.
 
 ## License
 
